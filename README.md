@@ -1,2 +1,2 @@
 # OOP_Learning
-Practising some oop
+Practice some oop
